@@ -1,0 +1,21 @@
+body{
+    background-color:white;
+}
+.box{
+    width: 1200px;
+    margin: 20px auto;
+    background-color:white;
+}
+.box-item{
+    width: 280px;
+    height: 320px;
+    border: 1px solid black;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    margin: 0 20px;
+}
+.clear{
+    clear: both;
+}
