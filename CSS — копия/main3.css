@@ -1,0 +1,97 @@
+body{
+    background-color: pink;
+}
+.box{
+    width: 1200px;
+    margin: 20px auto;
+}
+.box-item1{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    border: 3px solid white;
+    text-align: center;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 30px;
+    border-radius: 30px;
+    float: left;
+    margin: 30px 30px;
+    border-top-color:red;
+}
+.box-item2{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    border: 3px solid white;
+    text-align: center;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 30px;
+    border-radius: 30px;
+    float: left;
+    margin: 30px 30px;
+    border-top-color:rgb(0, 26, 255);
+}
+.box-item3{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    border: 3px solid white;
+    text-align: center;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 30px;
+    border-radius: 30px;
+    float: left;
+    margin: 30px 30px;
+    border-top-color:orangered;
+}
+.box-item4{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    border: 3px solid white;
+    text-align: center;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 30px;
+    border-radius: 30px;
+    float: left;
+    margin: 30px 30px;
+    border-top-color:rgb(0, 255, 238);
+}
+.box-item5{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    border: 3px solid white;
+    text-align: center;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 30px;
+    border-radius: 30px;
+    float: left;
+    margin: 30px 30px;
+    border-top-color:yellow;
+}
+.box-item6{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    border: 3px solid white;
+    text-align: center;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 30px;
+    border-radius: 30px;
+    float: left;
+    margin: 30px 30px;
+    border-top-color:rgb(0, 72, 255);
+}
